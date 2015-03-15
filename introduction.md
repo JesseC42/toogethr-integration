@@ -4,6 +4,8 @@ You probably know the widely used Toogethr app for carpool and rideshare. But ho
 
 You are the missing link between helping them saving money on fuel and having more fun. Besides, it is a easy step into making your business more sustainable and your location better accessible.
 
+!integrate(http://www.toogethr.com/sites/default/files/1/header-developer-3.jpg)
+
 # Integration made easy
 
 Integration is easy using our tools such as widgets, deeplinks, banners, and Facebook page tab app. Integrate directly from your content management system or with a little help from your in-house developer or web/creative agency.
