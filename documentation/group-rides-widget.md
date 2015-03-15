@@ -5,6 +5,8 @@ Group rides widget
 
 This widget shows all recent rides in a specific group. Rides includes details on location, time, and price.
 
+![Pinkpop example]
+(http://www.toogethr.com/sites/default/files/styles/large/public/1/ride.png?itok=FNhBXU9C)
 
 
 ## JavaScript code
@@ -36,9 +38,6 @@ To show the Group rides widget you must put this HTML code in your webpage. The 
 `data-groupkey="key-name"`
 
 Contains the key name of the group. For instance "pinkpop". You can find the key-name on the settings page of each group or in the url from the group page on https://m.toogethr.com
-
-![Pinkpop example]
-(http://www.toogethr.com/sites/default/files/styles/large/public/1/ride.png?itok=FNhBXU9C)
 
 `data-width="320"`
 
