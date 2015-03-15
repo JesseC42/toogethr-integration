@@ -15,9 +15,9 @@ Quite likely, when you want to integrate carpooling on your website, Facebook pa
 ## How to start a group?
 Starting a group is easy. And it won't cost you anything. You have to request for a group. Toogethr support will handle your request to ensure the list of groups stay clean and relevant.
 
-We assume you already have a Toogethr account. If not, create a Toogethr account first.
+We assume you already have a Toogethr account. If not, [create a Toogethr account](https://m.toogethr.com/login/signup) first.
 
-First search the list of Toogethr groups before you request a new group. Nothing out there? Feel free to start a new group. 
+First [search the list of Toogethr groups](https://m.toogethr.com/group/all/all) before you request a new group. Nothing out there? Feel free to [start a new group](https://m.toogethr.com/group/request/form). 
 
 ## Following a group
 Once your group is set up, make sure you start following the group. That's very easy. Open the Toogethr group (for instance by following the link: https://m.toogethr.com/group/pinkpop) and tick the 'Follow' button. This ensures that you will remain in the loop of what's happening in your group.
