@@ -2,7 +2,7 @@ Choose tools from the gallery
 =============================
 
 Whether you have a website, blog, forum, or Facebook page, there are several ways to integrate with Toogethr:
-* Widgets
+* [Widgets](#widgets)
 * Deep link
 * Banner
 * Facebook page tab app
@@ -12,7 +12,7 @@ A widget brings the Toogethr content and services directly to your webpage. Your
 
 You are probably familiar with YouTube videos that are all over the web. Or the Facebook Like button. These are all widgets. It's just some lines of code (called JavaScript) you publish on your webpage. And we take care of the rest.
 
-There are several widget types you can choose from: for instance to directly lists all rides shared with the group. Each widget can be further customized to seamlessly integrate with your page. Detailed information about the widgets can be found in the Documentation.
+There are several widget types you can choose from: for instance to directly lists all rides shared with the group. Each widget can be further customized to seamlessly integrate with your page. Detailed information about the widgets can be found in the [Documentation](documentation/documentation-overview/).
 
 Make sure you have read and agreed with the Widget Terms of Use before you publish a widget. 
 
