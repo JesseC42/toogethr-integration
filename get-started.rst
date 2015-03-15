@@ -11,9 +11,9 @@ Step 1 - Set up a Toogethr group
 To integrate Toogethr with your location or activity, there needs to be a Toogethr group set up. [Learn more about groups](http://www.toogethr.com/nl/developer-publisher/groups) and understand how to get a group that fits your needs. 
 
 Step 2 - Select the best tools and integrate
-********************************
+********************************************
 There are several tools for you to select to integrate with, such as widgets and deeplinks. [Choose the best tools from the gallery](http://www.toogethr.com/nl/developer-publisher/gallery). 
 
 Step 3 - Share with your community
-********************************
+**********************************
 Once the integration is up and running, it's time to promote carpooling by sharing it with your community. Get some ideas on how to [share with your community](http://www.toogethr.com/nl/developer-publisher/promotion).
