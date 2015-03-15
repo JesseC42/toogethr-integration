@@ -13,3 +13,6 @@ There are several tools for you to select to integrate with, such as widgets and
 
 ## Step 3 - Share with your community
 Once the integration is up and running, it's time to promote carpooling by sharing it with your community. Get some ideas on how to [share with your community](http://www.toogethr.com/nl/developer-publisher/promotion).
+
+# Looking for more advanced integration?
+Do you want to integrate Toogethr with your app or web service? Check out the [Toogethr Open API](/toogethr-open-api/toogethr-open-api/)
