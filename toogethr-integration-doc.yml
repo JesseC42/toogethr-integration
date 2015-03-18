@@ -1,0 +1,5 @@
+site_name: Toogether integration documentation
+pages:
+- [README.md, Home]
+- [about.md, About]
+theme: readthedocs
