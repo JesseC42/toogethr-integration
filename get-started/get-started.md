@@ -5,7 +5,7 @@ Er zijn meerdere manieren om Toogethr met je website of Facebook pagina te integ
 
 Om Toogethr in je online domein op te nemen moet je een verbinding maken met een Toogethr groep. Hiervoor moet je 3 stappen doorlopen:
 
-## Stap 1 - – Start een Toogethr groep
+## Stap 1 – Start een Toogethr groep
 Om Toogethr te integreren met je locatie of activiteit, moet daar een Toogethr groep voor bestaan. [Leer meer over groepen](/get-started/understanding_groups/) en ontdek hoe je een groep krijgt die bij je behoeften past. 
 
 ## Stap 2 - Selecteer de best passende tools and integreer

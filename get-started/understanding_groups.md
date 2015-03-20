@@ -16,7 +16,7 @@ Een groep starten is eenvoudig. En het kost je niets. Je moet een groep aanvrage
 We nemen daarbij aan dat je al beschikt over een Toogethr account. Als dat niet zo is, maak dan eerst een 
 [Toogethr account](https://m.toogethr.com/login/signup) aan.
 
-Bekijk ook eerst de  [lijst van Toogethr groepen](https://m.toogethr.com/group/all/all) bvoordat je een nieuwe groep aanvraagt. Is er niets wat aan je behoeften voldoet? Voel je dan vrij om [een nieuwe groep te starten](https://m.toogethr.com/group/request/form). 
+Bekijk ook eerst de  [lijst van Toogethr groepen](https://m.toogethr.com/group/all/all) voordat je een nieuwe groep aanvraagt. Is er niets wat aan je behoeften voldoet? Voel je dan vrij om [een nieuwe groep te starten](https://m.toogethr.com/group/request/form). 
 
 ## Een groep volgen
-Zodra een groep is gestart, vergeet dan niet om te beginnen de groep te volgen. Dat is heet eenvoudig. Open de Toogethr groep (bijvoorbeeld door de link https://m.toogethr.com/group/pinkpop te volgen) and vink de 'Volg‘ knop. Dit verzekert je ervan dat je op de hoogte blijft van alles dat er binnen je groep gebeurt.
+Zodra een groep is gestart, vergeet dan niet om te beginnen de groep te volgen. Dat is heet eenvoudig. Open de Toogethr groep (bijvoorbeeld door de link [https://m.toogethr.com/group/pinkpop](https://m.toogethr.com/group/pinkpop) te volgen) en klik op de 'Volg‘ knop. Dit verzekert je ervan dat je op de hoogte blijft van alles dat er binnen je groep gebeurt.
