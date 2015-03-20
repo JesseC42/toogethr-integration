@@ -11,3 +11,7 @@ You are the missing link between helping them saving money on fuel and having mo
 Integration is easy using our tools such as widgets, deeplinks, banners, and Facebook page tab app. Integrate directly from your content management system or with a little help from your in-house developer or web/creative agency.
 
 Carpooling is a great way of transport to for instance festivals, concerts, events, venues, museums, zoos, transport hubs, beaches and soccer clubs. But also for day-to-day commutes to your office, university or business park.
+
+# Pricing model
+
+The Toogethr service and intrgation tools are free. For monitoring and reporting tools in support of for instance communication or promotion campaigns, price quotes are provided upon request.
