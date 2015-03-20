@@ -1,23 +1,22 @@
-Understand Toogethr groups
-==========================
+# Leer meer over Toogethr groepen
 
-With the Toogethr app, you can both offer and request rides. Each ride includes a destination and departure date and time. It's quite likely that people going to for instance a soccer match, share rides to the stadium where the match is being held, and leaving all on the same day.
+Met de Toogethr app kun je zowel ritten aanbieden als aanvragen. Elke rit bevat een bestemming en een vertrekdatum en -tijd. Het is heel waarschijnlijk dat mensen die bijvoorbeeld naar een voetbalwedstrijd gaan, ritten delen naar het stadion waar de wedstrijd wordt gespeeld en allemaal op dezelfde dag vertrekken. 
 
-That's were Toogethr groups add value. Toogethr groups are bundling all the rides to the same destination. This makes it much easier to find rides not only to a specific location, but be assured you travel with other fans. And not people going to the shopping mall next door.
+Daarvoor zijn Toogethr groepen toegevoegde waarde. Toogethr groepenn bundelen alle ritten naar dezelfde bestemming. Dit maakt het veel gemakkelijker om ritten te vinden, niet alleen naar een specifieke locatie, maar ook met de zekerheid dat je samen met andere fans reist. En dus niet met mensen die in het winkelcentrum naast het stadion gaan winkelen.
 
-## Groups are powerful
-Groups don't necessarily have to be linked to a specific location. For instance a group for windsurfers. Depending on the wind, windsurfers go to different spots. You want to be sure you travel with a fellow surfer. And probably, you want to bring your board along. Sunseekers quite often don't have this specific need.
+## Groepen zijn krachtig
+Groepen hoeven niet per se gelinkt te zijn aan een specifieke locatie. Bijvoorbeeld een groep voor windsurfers: afhankelijk van de windrichting gaan windsurfers naar verschillende plekken. Jij wilt zeker weten dat je met een mede-surfer reist. En waarschijnlijk wil je je board meenemen. Zonaanbidders hebben deze specifieke behoefte meestal niet.
 
-Other groups do have a specific location, but not a set date. For example, your office is at a nice business park, 3 miles away from the nearest busstop. A group can help you to be notified when new rides are shared with your group. 
+Andere groepen hebben wel een specifieke locatie, maar geen bvaste datum. Je kantoor is bijvoorbeeld gevestigd op een mooi bedrijventerrein, 3 kilometer verwijderd van de dichtstbijzijnde bushalte. Een groep kan je helpen om op de hoogte te worden gebracht wanneer nieuwe ritten worden gedeeld met je groep.
 
-Quite likely, when you want to integrate carpooling on your website, Facebook page, blog, or forum: a Toogethr group is what you need to be set up.
+Het is heel waarschijnlijk dat, wanneer je carpoolen wilt integreren in je website, Facebook pagina, blog of forum, een Toogethr groep is wat je nodig hebt om aan de slag te kunnen.
 
-## How to start a group?
-Starting a group is easy. And it won't cost you anything. You have to request for a group. Toogethr support will handle your request to ensure the list of groups stay clean and relevant.
+## Hoe start je een groep?
+Een groep starten is eenvoudig. En het kost je niets. Je moet een groep aanvragen. Toogethr support handelt je aanvraag af om zeker te stellen dat de lijst van groepen ‘schoon’ en relevant blijft.
+We nemen daarbij aan dat je al beschikt over een Toogethr account. Als dat niet zo is, maak dan eerst een 
+[Toogethr account](https://m.toogethr.com/login/signup) aan.
 
-We assume you already have a Toogethr account. If not, [create a Toogethr account](https://m.toogethr.com/login/signup) first.
+Bekijk ook eerst de  [lijst van Toogethr groepen](https://m.toogethr.com/group/all/all) bvoordat je een nieuwe groep aanvraagt. Is er niets wat aan je behoeften voldoet? Voel je dan vrij om [een nieuwe groep te starten](https://m.toogethr.com/group/request/form). 
 
-First [search the list of Toogethr groups](https://m.toogethr.com/group/all/all) before you request a new group. Nothing out there? Feel free to [start a new group](https://m.toogethr.com/group/request/form). 
-
-## Following a group
-Once your group is set up, make sure you start following the group. That's very easy. Open the Toogethr group (for instance by following the link: https://m.toogethr.com/group/pinkpop) and tick the 'Follow' button. This ensures that you will remain in the loop of what's happening in your group.
+## Een groep volgen
+Zodra een groep is gestart, vergeet dan niet om te beginnen de groep te volgen. Dat is heet eenvoudig. Open de Toogethr groep (bijvoorbeeld door de link https://m.toogethr.com/group/pinkpop te volgen) and vink de 'Volg‘ knop. Dit verzekert je ervan dat je op de hoogte blijft van alles dat er binnen je groep gebeurt.

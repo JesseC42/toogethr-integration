@@ -1,15 +1,13 @@
-# Toogethr on your website or Facebook
+# Toogethr op je website of Facebook
 
-TODO: Translate to dutch
+Je kent waarschijnlijk de veelgebruikte Toogethr app voor carpoolen en ritten delen al. Maar hoe promoot je carpooling rechtstreeks vanaf je website of Facebook pagina? Toogethr helpt je met een verzameling gratis tools. Je bezoekers, community leden of medewerkers kunnen gemakkelijk starten met carpoolen en ritten delen vanaf jouw online plaatsen.
 
-You probably know the widely used Toogethr app for carpool and rideshare. But how do you promote carpooling directly from your website or Facebook page? Toogethr helps you with a range of free tools. Your visitors, community members or employees can easily start carpooling and sharing rides from your online properties.
-
-You are the missing link between helping them saving money on fuel and having more fun. Besides, it is a easy step into making your business more sustainable and your location better accessible.
+Jij bent de ontbrekende schakel om hen te helpen geld te besparen op brandstof of meer plezier te beleven. Daarnaast is het een gemakkelijke stap richting je organisatie duurzamer en je locatie(s) bereikbaarder maken.
 
 ![integrate](http://www.toogethr.com/sites/default/files/1/header-developer-3.jpg)
 
-# Integration made easy
+# Integratie makkelijk gemaakt
 
-Integration is easy using our tools such as widgets, deeplinks, banners, and Facebook page tab app. Integrate directly from your content management system or with a little help from your in-house developer or web/creative agency.
+Integratie wordt simpel met behulp van onze tools als widgets, deeplinks, banners en een Facebook page tab app. Integreer direct vanuit je content managment systeem of met enige hulp van je eigen in-huis ontwikkelaar of web/creatieve bureau.
 
-Carpooling is a great way of transport to for instance festivals, concerts, events, venues, museums, zoos, transport hubs, beaches and soccer clubs. But also for day-to-day commutes to your office, university or business park.
+Carpoolen is een geweldige vorm van vervoer naar bijvoorbeeld festivals, concerten, evenementen, event locaties, musea, dierentuinen, vervoersknooppunten, het strand en voetbalwedstrijden. Maar ook voor je dagelijkse reis naar kantoor, universiteit of bedrijventerrein.

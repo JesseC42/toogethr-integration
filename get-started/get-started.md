@@ -1,18 +1,18 @@
-Get started with integration
-============================
+Starten met integratie
+======================
 
-There are several ways to integrate Toogethr with your website or Facebook page. Before we look into the various possibilities, you first need to know the basics: the concept of Toogethr groups. A group brings together people with similar interests or destinations, willing to share rides with each other. For instance a Toogethr group for the [Pinkpop music festival](https://m.toogethr.com/group/pinkpop). A group for [kitesurfers](https://m.toogethr.com/group/kitesurf-fone). A group for people in the [Rotterdam region](https://m.toogethr.com/group/rotterdam-centrum).
+Er zijn meerdere manieren om Toogethr met je website of Facebook pagina te integreren. Voordat we naar de verschillende mogelijkheden kijken, moet je eerst iets over de basis weten: het concept van Toogethr groepen. Een groep brengt mensen samen met vergelijkbare belangen of bestemmingen, die bereid zijn om ritten met elkaar te delen. Zo is er bijvoorbeeld een Tooogethr groep voor het [Pinkpop music festival](https://m.toogethr.com/group/pinkpop), een groep voor  [kitesurfers](https://m.toogethr.com/group/kitesurf-fone) en een groep voor mensen in de [regio Rotterdam](https://m.toogethr.com/group/rotterdam-centrum).
 
-To bring Toogethr to your online property, you need to connect with a Toogethr group. Doing so requires you 3 steps to take:
+Om Toogethr in je online domein op te nemen moet je een verbinding maken met een Toogethr groep. Hiervoor moet je 3 stappen doorlopen:
 
-## Step 1 - Set up a Toogethr group
-To integrate Toogethr with your location or activity, there needs to be a Toogethr group set up. [Learn more about groups](/get-started/understanding_groups/) and understand how to get a group that fits your needs. 
+## Stap 1 - – Start een Toogethr groep
+Om Toogethr te integreren met je locatie of activiteit, moet daar een Toogethr groep voor bestaan. [Leer meer over groepen](/get-started/understanding_groups/) en ontdek hoe je een groep krijgt die bij je behoeften past. 
 
-## Step 2 - Select the best tools and integrate
-There are several tools for you to select to integrate with, such as widgets and deeplinks. [Choose the best tools from the gallery](/get-started/choose-tools-from-gallery/). 
+## Stap 2 - Selecteer de best passende tools and integreer
+Je kunt verschillende tools kiezen om mee te integreren, zoals widgets en deeplinks. [Kiest de best passende tools uit de gallerij](/get-started/choose-tools-from-gallery/). 
 
-## Step 3 - Share with your community
-Once the integration is up and running, it's time to promote carpooling by sharing it with your community. Get some ideas on how to [share with your community](/get-started/tell-your-community/).
+## Stap 3 - Share with your community
+Zodra de integration ‘up&running’ is, is het tijd om carpoolen te promoten door het te delen met je gebruikersgemeenschap of community. Vind hier ideëen over hoe [met je community te delen](/get-started/tell-your-community/).
 
-# Looking for more advanced integration?
-Do you want to integrate Toogethr with your app or web service? Check out the [Toogethr Open API](/toogethr-open-api/toogethr-open-api/)
+# Op zoek naar meer geavanceerde opties voor integratie?
+Wil je Toogethr integreren met je app of web service? Vind hier meer informatie over de  [Toogethr Open API](/toogethr-open-api/toogethr-open-api/)
