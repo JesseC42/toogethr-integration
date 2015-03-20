@@ -14,4 +14,4 @@ Carpoolen is een geweldige vorm van vervoer naar bijvoorbeeld festivals, concert
 
 # Prijsmodel
 
-De Toogethr service en integratie tools zijn gratis. Voor monitoring en rapportage tooling ter ondersteuning van bv. communicatie- of promotiecampagnes gelden prijzen op aanvraag.  
+De Toogethr service en integratie tools zijn gratis. Voor monitoring en rapportage tooling ter ondersteuning van bijvoorbeeld communicatie- of promotiecampagnes gelden prijzen op aanvraag.  
