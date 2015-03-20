@@ -11,7 +11,7 @@ This widget shows all recent activities in a specific group. Activities includes
 
 Before you use a widget on your page, put this JavaScript code on your site. It does not matter where in the HTML `<body>` you insert it. You need it only once, irrespectable how many widgets you use.
 
-```
+```html
 <script>"use strict";(function(){
 var t=document.createElement('script');t.async=true; 
 t.src='https://m.toogethr.com/widget/v2/api.js'; 
@@ -22,7 +22,8 @@ s.parentNode.insertBefore(t,s);})();</script>
 ## HTML code
 
 To show the Group Activities widget you must put this HTML code in your webpage. The HTML element has data attributes to configure the size and behaviour. The attributes are easy to understand but are further explained below.
-```
+
+```html
 <div class="too-GroupActivitiesList"
      data-groupkey="key-name"
      data-width="400"
