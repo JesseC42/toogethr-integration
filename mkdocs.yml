@@ -4,11 +4,11 @@ site_favicon: favicon.ico
 
 #pages:
 #- ['README.md', 'Introduction']
-#- ['get-started/get-started.md', 'Get started', 'Get started']
+#- ['get-started/get-started.md', 'Get started', 'Start hier']
 #- ['get-started/understanding_groups.md', 'Get started', 'Understanding groups']
 #- ['get-started/choose-tools-from-gallery.md', 'Get started', 'Choose tools from gallery']
 #- ['get-started/tell-your-community.md', 'Get started', 'Tell your community']
-#- ['documentation/documentation-overview.md', 'Documentation', 'Overview']
+#- ['documentation/documentation-overview.md', 'Documentation', 'Overzicht']
 #- ['documentation/group-activities-widget.md', 'Documentation', 'Group activities widget']
 #- ['documentation/group-rides-widget.md', 'Documentation', 'Group rides widget']
 #- ['documentation/group-counter-widget.md', 'Documentation', 'Group counter widget']

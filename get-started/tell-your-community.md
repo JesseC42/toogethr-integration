@@ -1,13 +1,12 @@
-Tell your community
-===================
+# Vertel het je community
 
-Once it's all up and running, we need your support to create awareness among your visitors, community members or employees. Get the word out by posting this news on your website, in your newsletter, on Facebook or in your printed materials. 
- 
-There are probably many online and offline channels you employ to engage with your community.
- 
-Here are some ideas:
-* Website or Intranet. Use a widget, banner or link.
-* Email newsletter to your customers, business partners or employees. Use a banner or link.
-* Facebook page. Use a link or Facebook page tab app.
-* Social media channels (such as Twitter, Google+, LinkedIn). Use a links.
-* Printed materials. Use a (shortned) link.Tell your community
+Zodra allles ‘up & running’ is hebben we je hulp nodig om bewustwording onder je bezoekers, leden van je gebruikersgemeenschap of medewerkers te creëren. Breng hen op de hoogte door het nieuws te publiceren op je website, in je nieuwsbrief, op je Facebook pagina of in je gedrukte media.
+
+Je gebruikt waarschijnlijk diverse online en offline kanalen om contact te houden met je community.
+
+Hier een paar ideëen:
+* Website of Intranet. Gebruik een widget, banner of link.
+* Email newsletter naar klanten, business partners of  medewerkers. Gebruik een banner of link.
+* Facebook page. Gebruik een link or Facebook page tab app.
+* Social media kanalen (zoals Twitter, Google+, LinkedIn). Gebruik een link.
+* Gedrukt materiaal. Gebruik een (verkorte) link.

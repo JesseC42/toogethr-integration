@@ -1,32 +1,32 @@
 Group counter widget
 ====================
 
-##Explanation
+## Toelichting
 
-This widget shows a counter of available rides within a specific group.
+Deze widget laat een teller zien van de beschikbare ritten binnen een specifieke groep.
 
 ![Group counter widget](http://www.toogethr.com/sites/default/files/styles/large/public/1/counter.png?itok=SxYEgFCt)
 
 ## JavaScript code
 
-Before you use a widget on your page, put this JavaScript code on your site. It does not matter where in the HTML <body> you insert it. You need it only once, irrespectable how many widgets you use.
+Voeg, voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
 
 ```
 <script>"use strict";(function(){
-var t=document.createElement('script');t.async=true; 
-t.src='https://m.toogethr.com/widget/v2/api.js'; 
-var s=document.getElementsByTagName('script')[0]; 
-s.parentNode.insertBefore(t,s);})();</script>
-```
+	var t=document.createElement('script');t.async=true; 
+	t.src='https://m.toogethr.com/widget/v2/api.js'; 
+	var s=document.getElementsByTagName('script')[0]; 
+	s.parentNode.insertBefore(t,s);})();</script>
+	```
 
-## HTML code
+	## HTML code
 
-To show the Group Counter widget you must put this HTML code in your webpage. The HTML element has data attributes to configure the size and behaviour. The attributes are easy to understand but are further explained below.
+	Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. Het HTML element heeft data attributen om de grootte en het gedrag in te stellen. Deze attributen zijn gemakkelijk te begrijpen, maar worden hieronder verder toegelicht.
 
-```
-<div class="too-Counter"
-     data-groupkey="key-name"
-     data-width="320">
+	```
+	<div class="too-Counter"
+	data-groupkey="key-name"
+	data-width="320">
 </div>
 ``` 
 
@@ -34,8 +34,8 @@ To show the Group Counter widget you must put this HTML code in your webpage. Th
 
 `data-groupkey="key-name"`
 
-Contains the key name of the group. For instance "pinkpop". You can find the key-name on the settings page of each group or in the url from the group page on https://m.toogethr.com
+Bevat de key name van de groep. Bijvoorbeeld "pinkpop". Je kunt de key-name vinden op de settings pagina van iedere groep of in de URL van de groep pagina op https://m.toogethr.com
 
 `data-width="250"`
 
-Defines the width of the widget in pixels in your webpage. There is a minimum width of 200px.
+Definieert de breedte van de widget in pixels op je webpagina. Er geldt een minimum breedte van of 250px.

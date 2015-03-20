@@ -1,29 +1,30 @@
-Documentation overview
+Documentatie overzicht
 ======================
 
-This section provides technical information on how to integrate with Toogethr. First of all, get yourself familiar with the basics through the [Get started section](/get-started/get-started/).
+Deze sectie verschaft technische informatie over hoe je met Toogethr kunt integreren. Raak allereerst bekend met de basics in de  [Start hier sectie](/get-started/get-started/).
 
-In this section, the following types of integration are outlined:
+In deze sectie worden de volgende typen integratie uitgelegd:
 
 ## Widgets
-Widgets are small pieces of HTML/Javascript code that you embed in your website and that show specific things from your Toogethr group.
+Widgets zijn kleine stukjes HTML/Javascript code die je embed in je website en die specifieke aspecten van je Toogethr tonen.
 
-We have made the following Widget types available:
+We hebben de volgende typen Widgets beschikbaar gemaakt:
 
-* [Group rides widget](/documentation/group-rides-widget/): This widget let you show rides that are shared within that group.
-* [Group counter widget](/documentation/group-counter-widget/): This widget uses less space, and just shows the number of new rides available within that group.
-* [Group activities widget](/documentation/group-activities-widget/): This widget shows user activities in that group.
+* [Group rides widget](/documentation/group-rides-widget/): Deze widget staat je toe ritten te tonen die binnen de groep worden gedeeld.
+* [Group counter widget](/documentation/group-counter-widget/): Deze widget gebruikt minder ruimte en laat alleen het aantal nieuwe ritten zien dat beschikbaar is binnen de groep.
+* [Group activities widget](/documentation/group-activities-widget/): Deze widget toont de activiteiten van gebruikers binnen de groep.
 
-Each widget can be further customized in size and behavior in order to fit on your website.
+Elke widget kan verder op maat worden gemaakt in grootte en gedrag om in je website te passen.
 
 ## Deep link
-Deep links allow you to open Toogethr Group pages directly from your website.
+Deep links staan je toe om Toogethr Groep pagina’s direct vanuit je website te openen.
 
-Each group has its own URL. For instance [https://m.toogethr.com/group/pinkpop](https://m.toogethr.com/group/pinkpop). This is a deep link into the Toogethr app for getting directly to the group homepage.
+Elke groep heeft zijn eigen URL. Bijvoorbeeld [https://m.toogethr.com/group/pinkpop](https://m.toogethr.com/group/pinkpop). 
 
-If the location and/or dates are specified, this information will be populated in the form fields.
+Dit is een  deep link naar de Toogethr app om direct naar de groep home page te kunnen gaan.
+Als de locatie en/of de data zijn gespecificeerd, zal deze informatief worden opgenomen in de formuliervelden.
 
-The last part of the URL is called the key-name of the group. In the above example it's "pinkpop". The key-name is unique and is needed to integrate a widget from you website to the Toogethr app.
+Het laatste deel van de URL wordt de key-name van de groep genoemd. In het bovenstaande voorbeeld is dit "pinkpop". De key-name is uniek en is nodig om een widget vanaf je website te integreren met de Toogethr app.
 
 ## Facebook page tab app
-You can easily [add a Toogethr Group as a Facebook tab](/documentation/facebook-page-tab-app/) to your Facebook page. Your Toogethr group will appear as tab besides your other tabs. 
+Je kunt eenvoudig een [Toogethr Group toevoegen als een Facebook tab](/documentation/facebook-page-tab-app/) op je Facebook page. Je  Toogethr groep zal naast je andere tabs als een tab verschijnen.

@@ -1,10 +1,10 @@
 Toogethr Open API
 =================
 
-The Toogethr Open API is there for advanced integrations with the Toogethr platform. We believe that being part of the transition called the Sharing Economy, it's important to open up our services and data, and share what we have. Helping people with creative ideas to provide value on top of what we have done so far. 
+De Toogethr Open API is beschikbaar voor geavanceerde vormen van integratie met het Toogethr platform. Wij geloven dat om onderdeel te  zijn van de transitie die de Sharing Economy heet, het  belangrijk is om onze services en data open beschikbaar te maken en te delen wat we hebben. Daarmee helpen we mensen met creatieve ideëen om waarde toe te voegen bovenop wat wij tot dusver hebben gerealiseerd. 
 
-## Access to the Open API
-Consider the Toogethr Open API an MVP for now.  It's available, but not yet to everyone. [Contact us](mailto:info@toogethr.com), as we love to hear what you have in mind.
+## Toegang tot de Open API
+Beschouw de Toogethr Open API vooralsnog s.v.p. als een MVP.  Het is beschikbaar, maar nog niet voor iedereen. [Contact ons](mailto:info@toogethr.com), want we zijn heel benieuwd om te horen wat je in gedachten hebt.
 
 ## Terms of the Toogethr Open API
-The Toogethr Open API comes with its own [legal terms](http://www.toogethr.com/legal). It won't come free of charge. For a limited number of monthly calls, there will be a free plan. Above this threshold, a monthly fee does apply. Why? Because we rely on third party services that needs to be paid for as well. And so does our cloud hosting provider.
+De Toogethr Open API heeft zijn eigen [juridische voorwaarden](http://www.toogethr.com/legal). Hij is niet gratis. Voor een beperkt aantal maandelijkse verzoeken is ere en gratis bundle. Boven deze drempel geldt wel een maandelijkse vergoeding. Waarom? Omdat we dit aanbieden op basis van diensten van derden waarvoor ook moet worden betaald. En dat geldt ook voor onze cloud hosting provider.

@@ -1,22 +1,22 @@
 Facebook Page tab app
 =====================
 
-A group can be added as a tab to your Facebook Page. This means that users in your community will be able to quickly discover your Toogethr Group and see all shared rides. 
+Een groep kan aan je Facebook pagina worden toegevoegd als een tab. Dit betekent dat gebruikers in je community je Toogethr Groep eenvoudig kunnen ontdekkken en alle gedeelde ritten kunnen zien. 
 
 ![facebook page tab app](http://www.toogethr.com/sites/default/files/styles/large/public/1/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop_1.png?itok=V6metDOL)
 
 ## Requirements
 
-* Your Toogethr account must be linked to Facebook. If this is not the case, you can connect to Facebook inside the Profile Settings page.
-* You must be administrator of the Facebook page. 
-* It must indeed be a Facebook page that you wish to add the tab to, not a person, event or group on Facebook. 
+* Je Toogethr account moet gelinkt zijn met Facebook. Als dit niet het geval is, kun je met Facebook linken in de Profiel Instellingen pagina.
+* Je moet administrator zijn van de Facebook page. 
+* Het moet daadwerkelijk een Facebook pagina zijn waaraan je de tab wilt toevoegen, niet een persoon, event of group in Facebook. 
 
 ## How to add the Facebook Tab app
 
-1. Follow the Toogethr group you want to add as new tab.
-2. In the specific Toogethr group you wish to add to your Facebook page, go to the settings menu. There you will find a button named 'Add this group to a Facebook page' to add the group to one of your Facebook pages.
-3. Once you click this button, a Facebook dialog will appear that asks you to select a page. 
-4. On submit, a new tab will be added to your Facebook page named 'Carpool'. This tab contains the Toogethr app.
-5. Now your community users will be able to directly open the Toogethr Group from your Facebook Page
+1.	Volg de Toogethr groep die je als nieuwe tab wilt toevoegen.
+2.	Ga in de specifieke Toogethr groep die je wilt toevoegen aan je Facebook pagina naar het instellingen menu. Daar vind je een knop genaamd 'Voeg deze groep toe aan een Facebook page' om de groep toe te voegen aan een van je Facebook pagina’s.
+3.	Zodra je op deze knop klikt, zal een Facebook dialoog verschijnen die je vraagt om een pagina te selecteren. 
+4.	Bij het bevestigen zal een nieuwe tab genaamd ‘Carpool’ worden toegevoegd aan je Facebook pagina. Deze tab bevat de Toogethr app.
+5.	Nu kunnen de gebruikers in je community users de Toogethr Group direct vanuit je Facebook pagina openen.
 
-See the [video tutorial](https://www.youtube.com/watch?v=GSTuXk94inA)
+Bekijk ook de [video tutorial](https://www.youtube.com/watch?v=GSTuXk94inA)
