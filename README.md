@@ -11,3 +11,7 @@ Jij bent de ontbrekende schakel om hen te helpen geld te besparen op brandstof o
 Integratie wordt simpel met behulp van onze tools als widgets, deeplinks, banners en een Facebook page tab app. Integreer direct vanuit je content managment systeem of met enige hulp van je eigen in-huis ontwikkelaar of web/creatieve bureau.
 
 Carpoolen is een geweldige vorm van vervoer naar bijvoorbeeld festivals, concerten, evenementen, event locaties, musea, dierentuinen, vervoersknooppunten, het strand en voetbalwedstrijden. Maar ook voor je dagelijkse reis naar kantoor, universiteit of bedrijventerrein.
+
+# Prijsmodel
+
+De Toogethr service en integratie tools zijn gratis. Voor monitoring en rapportage tooling ter ondersteuning van bv. communicatie- of promotiecampagnes gelden prijzen op aanvraag.  
