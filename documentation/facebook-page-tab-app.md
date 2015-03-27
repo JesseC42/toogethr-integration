@@ -11,7 +11,7 @@ Een groep kan aan je Facebook pagina worden toegevoegd als een tab. Dit betekent
 * Je moet administrator zijn van de Facebook page. 
 * Het moet daadwerkelijk een Facebook pagina zijn waaraan je de tab wilt toevoegen, niet een persoon, event of group in Facebook. 
 
-## How to add the Facebook Tab app
+## Hoe voeg je de Facebook Tab app toe
 
 1.	Volg de Toogethr groep die je als nieuwe tab wilt toevoegen.
 2.	Ga in de specifieke Toogethr groep die je wilt toevoegen aan je Facebook pagina naar het instellingen menu. Daar vind je een knop genaamd 'Voeg deze groep toe aan een Facebook page' om de groep toe te voegen aan een van je Facebook pagina’s.
