@@ -4,7 +4,7 @@ site_favicon: favicon.ico
 
 #pages:
 #- ['README.md', 'Introduction']
-#- ['start-hier/start-hier.md', 'Start hier', 'Start hier']
+#- ['get-started/get-started.md', 'Start hier', 'Start hier']
 #- ['get-started/understanding_groups.md', 'Start hier', 'Leer meer over Toogethr groepen']
 #- ['get-started/choose-tools-from-gallery.md', 'Start hier', 'Kies uit de galerij']
 #- ['get-started/tell-your-community.md', 'Start hier', 'Vertel het je community']
