@@ -1,8 +1,8 @@
 # Toogethr op je website of Facebook
 
-Je kent waarschijnlijk de veelgebruikte Toogethr app voor carpoolen en ritten delen al. Maar hoe promoot je carpooling rechtstreeks vanaf je website of Facebook pagina? Toogethr helpt je met een verzameling gratis tools. Je bezoekers, community leden of medewerkers kunnen gemakkelijk starten met carpoolen en ritten delen vanaf jouw online plaatsen.
+Je kent waarschijnlijk de veelgebruikte Toogethr app voor carpoolen en ritten delen al. Maar hoe promoot je carpooling rechtstreeks vanaf je website of Facebook pagina? Toogethr helpt je met een verzameling gratis tools. Je bezoekers, community leden of medewerkers kunnen gemakkelijk starten met carpoolen en ritten delen vanaf jouw sites en pagina's.
 
-Jij bent de ontbrekende schakel om hen te helpen geld te besparen op brandstof of meer plezier te beleven. Daarnaast is het een gemakkelijke stap richting je organisatie duurzamer en je locatie(s) bereikbaarder maken.
+Jij bent de ontbrekende schakel om hen te helpen geld te besparen op brandstof of meer plezier te beleven. Daarnaast is het een gemakkelijke stap richting het duurzamer en bereikbaarder maken van je organisatie en locatie(s).
 
 ![integrate](http://www.toogethr.com/sites/default/files/1/header-developer-3.jpg)
 
@@ -14,4 +14,4 @@ Carpoolen is een geweldige vorm van vervoer naar bijvoorbeeld festivals, concert
 
 # Prijsmodel
 
-De Toogethr service en integratie tools zijn gratis. Voor monitoring en rapportage tooling ter ondersteuning van bijvoorbeeld communicatie- of promotiecampagnes gelden prijzen op aanvraag.  
+De Toogethr service en integratie tools zijn gratis. Voor monitoring en rapportage tooling ter ondersteuning van bijvoorbeeld communicatie- of promotiecampagnes zijn prijzen op aanvraag beschikbaar.  
