@@ -9,13 +9,13 @@ Of je nu een website hebt, een blog, forum of een Facebook pagina, er zijn versc
 * [Facebook page tab app](#facebook-page-tab-app)
 
 ## Widgets
-Een widget brengt de Toogethr content en services rechtstreeks in je webpagina. Je stelt je bezoeker sin staat om ritten te bekijken, zoeken of aanbieden, direct vanuit jouw eigen website. 
+Een widget brengt de Toogethr content en services rechtstreeks in je webpagina. Je stelt je bezoekers in staat om ritten te bekijken, zoeken of aanbieden, direct vanuit jouw eigen website. 
 
-Je kent vast de YouTube filmpjes wel, die je overall op het web vindt. Of de Facebook Like button. Dit zijn allemaal widgets. Ze bestaan simpelweg uit een paar regels code (JavaScript geheten) die je publiceert op je webpagina. En wij zorgen voor de rest.
+Je kent vast de YouTube filmpjes wel, die je overal op het web vindt. Of de Facebook Like button. Dit zijn allemaal widgets. Ze bestaan simpelweg uit een paar regels code (JavaScript geheten) die je publiceert op je webpagina. En wij zorgen voor de rest.
 
-Je kunt kiezen uit verschillende widget typen: bijvoorbeeld om direct alle ritten op te sommen die met de groep zijn gedeeld. Elke widget kan verder op maat worden gemaakt om naadloos met je pagina te integreren.  Gedetailleerde informatie over de widgets kun je vinden in de [Documentatie](documentation/documentation-overview/).
+Je kunt kiezen uit verschillende types widget: bijvoorbeeld om direct alle ritten op te sommen die met de groep zijn gedeeld. Elke widget kan verder op maat worden gemaakt om naadloos met je pagina te integreren.  Gedetailleerde informatie over de widgets kun je vinden in de [Documentatie](documentation/documentation-overview/).
 
-Wees er zeker van dat je de [Widget Terms of Use](http://www.toogethr.com/legal/) hebt gelezen en geaccepteerd voordat je een widget publiceert. . 
+Wees er zeker van dat je de [Widget Terms of Use](http://www.toogethr.com/legal/) hebt gelezen en geaccepteerd voordat je een widget publiceert.
 
 ![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Widget%20Roda%20JC.png?itok=jd-bm107)
 
@@ -32,7 +32,7 @@ Toogethr kan op aanvraag een short URL verzorgen. Bijvoorbeeld http://lift.je/na
 
 ![Toogethr link on the Mysteryland website](http://www.toogethr.com/sites/default/files/styles/large/public/1/pinkpop.jpg?itok=zoYVfcy4)
 
-Hierboven: Deep link naar de Toogethr groep in het RockWerchter programmaboekje
+Hierboven: Deep link naar de Toogethr groep in het Rock Werchter programmaboekje
 
 ![Toogethr link on the Mysteryland website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Mysteryland.png?itok=n8wEjwoD)
 
