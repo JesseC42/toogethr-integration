@@ -36,7 +36,7 @@ Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. 
 </div>
 ```
 
-## Attributes
+## Attributen
 
 `data-groupkey="key-name"`
 
