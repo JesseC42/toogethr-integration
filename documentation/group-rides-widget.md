@@ -3,7 +3,7 @@ Group rides widget
 
 ## Toelichting
 
-This widget shows all recent rides in a specific group. Rides includes details on location, time, and price.
+Deze widget laat alle recent ritten in een specifieke groep zien. Ritten bevatten details over locatie, tijd en prijs.
 
 ![Pinkpop example]
 (http://www.toogethr.com/sites/default/files/styles/large/public/1/ride.png?itok=FNhBXU9C)
@@ -11,7 +11,7 @@ This widget shows all recent rides in a specific group. Rides includes details o
 
 ## JavaScript code
 
-Voeg, voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
+Voeg voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
 
 ```html
 <script>"use strict";(function () {
@@ -40,7 +40,7 @@ Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. 
 
 `data-groupkey="key-name"`
 
-Bevat de key name van de groep. Bijvoorbeeld "pinkpop". Je kunt de key-name vinden op de settings pagina van iedere groep of in de URL van de groep pagina op  https://m.toogethr.com
+Bevat de key name van de groep. Bijvoorbeeld "pinkpop". Je kunt de key-name vinden op de settings pagina van iedere groep of in de URL van de groep pagina op https://m.toogethr.com .
 
 `data-width="320"`
 
@@ -52,7 +52,7 @@ Definieert de hoogte van de widget in pixels op je webpagina.
 
 `data-itemcount="20"`
 
-Definieert het maximum aantal ritten dat in de lijst wordt getoond. Optionele attribuut. Wanneer er meer items beschikbaar zijn dan de hoogte van de widget onderstgeunt, zal deze lijst scrollbaar zijn.
+Definieert het maximum aantal ritten dat in de lijst wordt getoond. Optionele attribuut. Wanneer er meer items beschikbaar zijn dan de hoogte van de widget ondersteunt, zal deze lijst scrollbaar zijn.
 
 `data-header="true"`
 
