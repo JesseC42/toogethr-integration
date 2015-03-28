@@ -2,15 +2,15 @@ site_name: Toogethr integratie
 site_description: Documentatie voor de integratie van Toogethr diensten
 site_favicon: favicon.ico
 
-pages:
-- ['README.md', 'Introduction']
-- ['get-started/get-started.md', 'Start hier', 'Start hier']
-- ['get-started/understanding_groups.md', 'Start hier', 'Leer meer over Toogethr groepen']
-- ['get-started/choose-tools-from-gallery.md', 'Start hier', 'Kies uit de galerij']
-- ['get-started/tell-your-community.md', 'Start hier', 'Vertel het je community']
-- ['documentation/documentation-overview.md', 'Documentatie', 'Overzicht']
-- ['documentation/group-activities-widget.md', 'Documentatie', 'Group activities widget']
-- ['documentation/group-rides-widget.md', 'Documentatie', 'Group rides widget']
-- ['documentation/group-counter-widget.md', 'Documentatie', 'Group counter widget']
-- ['documentation/facebook-page-tab-app.md', 'Documentatie', 'Facebook page tab app']
-- ['toogethr-open-api/toogethr-open-api.md', 'Toogethr Open API', 'Toogethr Open API']
+# pages:
+# - ['README.md', 'Introduction']
+# - ['get-started/get-started.md', 'Start hier', 'Start hier']
+# - ['get-started/understanding_groups.md', 'Start hier', 'Leer meer over Toogethr groepen']
+# - ['get-started/choose-tools-from-gallery.md', 'Start hier', 'Kies uit de galerij']
+# - ['get-started/tell-your-community.md', 'Start hier', 'Vertel het je community']
+# - ['documentation/documentation-overview.md', 'Documentatie', 'Overzicht']
+# - ['documentation/group-activities-widget.md', 'Documentatie', 'Group activities widget']
+# - ['documentation/group-rides-widget.md', 'Documentatie', 'Group rides widget']
+# - ['documentation/group-counter-widget.md', 'Documentatie', 'Group counter widget']
+# - ['documentation/facebook-page-tab-app.md', 'Documentatie', 'Facebook page tab app']
+# - ['toogethr-open-api/toogethr-open-api.md', 'Toogethr Open API', 'Toogethr Open API']
