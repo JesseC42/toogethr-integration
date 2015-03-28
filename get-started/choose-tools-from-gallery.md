@@ -1,4 +1,4 @@
-Kies uit de gallerij
+Kies uit de galerij
 ====================
 
 Of je nu een website hebt, een blog, forum of een Facebook pagina, er zijn verschillende manieren om met Toogethr te integreren:
