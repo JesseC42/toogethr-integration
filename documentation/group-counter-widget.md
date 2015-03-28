@@ -9,7 +9,7 @@ Deze widget laat een teller zien van de beschikbare ritten binnen een specifieke
 
 ## JavaScript code
 
-Voeg, voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
+Voeg voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
 
 ```html
 <script>"use strict";(function(){
@@ -30,7 +30,7 @@ Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. 
 </div>
 ``` 
 
-## Attributes
+## Attributen
 
 `data-groupkey="key-name"`
 
