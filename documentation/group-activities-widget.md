@@ -9,7 +9,7 @@ Deze widget toont alle recente activiteiten in een specifieke groep. Activiteite
 
 ## JavaScript code
 
-Voeg, voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
+Voeg voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
 
 ```html
 <script>"use strict";(function(){
