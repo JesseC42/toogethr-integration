@@ -30,7 +30,7 @@ https://m.toogethr.com/query/recent
 Returns a list of all recent offers and requests
 
 
-# Example responses for a requested/offered ride
+## Example JSON responses
 
 ```JSON
 {
