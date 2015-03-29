@@ -3,32 +3,34 @@
 
 ### Parameters
 
-`frmAddress` an formatted address, e.g. "Voorstraat 20"
-`frmLatLng` comma seperated latitute and longitued coordinates, e.g. "52.013397,4.356209"
-`toAddress` ,e.g. "Zoetermeer"
-`toLatLngString` comma seperated latitute and longitued coordinates, e.g. "52.061806,4.483128"
-`group` a string to identity the group, e.g. "Huishoudbeurs"
+* `frmAddress` an formatted address, e.g. "Voorstraat 20"
+* `frmLatLng` comma seperated latitute and longitued coordinates, e.g. "52.013397,4.356209"
+* `toAddress` ,e.g. "Zoetermeer"
+* `toLatLngString` comma seperated latitute and longitued coordinates, e.g. "52.061806,4.483128"
+* `group` a string to identity the group, e.g. "Huishoudbeurs"
 
 ### Examples
 
-`https://m.toogethr.com/query/search?frmAddress=Voorstraat 20&frmLatLng=52.013397,4.356209&toAddress=Zoetermeer&toLatLngString=52.061806,4.483128&group=huishoudbeurs`
+```
+https://m.toogethr.com/query/search?frmAddress=Voorstraat 20&frmLatLng=52.013397,4.356209&toAddress=Zoetermeer&toLatLngString=52.061806,4.483128&group=huishoudbeurs
+```
 
 Returns a list of all offers and requests (max 100) fitting the search parameters
 
-`
+```
 https://m.toogethr.com/query/local?geoLocationAddress=Voorstraat 20&geoLocationLatLng=52.013397,4.356209
-`
+```
 
 Returns a list (100-200) of items in range of 5km
 
-`
+```
 https://m.toogethr.com/query/recent
-`
+```
 
 Returns a list of all recent offers and requests
 
 
-# Example responses for a requested & an offered ride
+# Example responses for a requested/offered ride
 
 ```JSON
 {
