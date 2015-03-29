@@ -1,6 +1,8 @@
 
 ## Search
 
+At the moment the search query is accessible for non registered API users, standard CRUD (Create, Retreive, Update or Delete) requests on resources are not yet offered.
+
 ### Parameters
 
 * `frmAddress` an formatted address, e.g. "Voorstraat 20"
