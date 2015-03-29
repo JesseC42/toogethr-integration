@@ -20,12 +20,19 @@ Voeg voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan j
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(t, s);})();
 	</script>
+<<<<<<< Updated upstream
 ```
 
 ## HTML code
 Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. Het HTML element heeft data attributen om de grootte en het gedrag in te stellen. Deze attributen zijn gemakkelijk te begrijpen, maar worden hieronder verder toegelicht.
 
 ```html
+=======
+	```
+	
+	## HTML code
+	Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. Het HTML element heeft data attributen om de grootte en het gedrag in te stellen. Deze attributen zijn gemakkelijk te begrijpen, maar worden hieronder verder toegelicht.
+>>>>>>> Stashed changes
 
 <div class="too-GroupRidesList"
 	data-groupkey="key-name"
