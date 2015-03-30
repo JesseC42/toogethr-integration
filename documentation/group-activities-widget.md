@@ -5,7 +5,7 @@ Group Activities widget
 
 Deze widget toont alle recente activiteiten in een specifieke groep. Activiteiten zijn onder andere nieuwe volgers en gedeelde ritten.
 
-![group activitieis widget](http://www.toogethr.com/sites/default/files/1/act.png)
+![group activities widget](http://www.toogethr.com/sites/default/files/1/act.png)
 
 ## JavaScript code
 
