@@ -5,7 +5,7 @@ Group counter widget
 
 This widget shows a counter of available rides within a specific group.
 
-![Group counter widget](http://www.toogethr.com/sites/default/files/styles/large/public/1/counter.png?itok=SxYEgFCt)
+![Group counter widget](../static/img/counter.png)
 
 ## JavaScript code
 

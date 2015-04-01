@@ -3,7 +3,7 @@ Facebook Page tab app
 
 A group can be added as a tab to your Facebook Page. This means that users in your community will be able to quickly discover your Toogethr Group and see all shared rides. 
 
-![facebook page tab app](http://www.toogethr.com/sites/default/files/styles/large/public/1/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop_1.png?itok=V6metDOL)
+![facebook page tab app](../static/img/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop_1.png)
 
 ## Requirements
 

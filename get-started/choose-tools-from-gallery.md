@@ -17,11 +17,11 @@ There are several widget types you can choose from: for instance to directly lis
 
 Make sure you have read and agreed with the [Widget Terms of Use](http://www.toogethr.com/legal/) before you publish a widget. 
 
-![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Widget%20Roda%20JC.png?itok=jd-bm107)
+![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](../static/img/Widget%20Roda%20JC.png)
 
 Above: Toogethr widget on the Roda JC (Dutch premier league soccer club) website
 
-![Toogethr widget on the High Tech Campus Eindhoven website/intranet](http://www.toogethr.com/sites/default/files/styles/large/public/1/High%20Tech%20Campus%20Eindhoven%20Toogethr.png?itok=LZr_Mx-m)
+![Toogethr widget on the High Tech Campus Eindhoven website/intranet](../static/img/High%20Tech%20Campus%20Eindhoven%20Toogethr.png)
 
 
 Above: Toogethr widget on the High Tech Campus Eindhoven website/intranet
@@ -33,32 +33,32 @@ A deep link will redirect your site visitors directly to a group homepage in the
 
 Toogethr can provide a short URL for the deep link upon request (link stuurt een e-mail). For example http://lift.je/naarpinkpop. This is especially useful in offline/printed media.
 
-![Toogethr link on the Mysteryland website](http://www.toogethr.com/sites/default/files/styles/large/public/1/pinkpop.jpg?itok=zoYVfcy4)
+![Toogethr link on the Mysteryland website](../static/img/pinkpop.jpg)
 
 Above: Deep link to the Toogethr group in the Pinkpop festival guide
 
-![Toogethr link on the Mysteryland website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Mysteryland.png?itok=n8wEjwoD)
+![Toogethr link on the Mysteryland website](../static/img/Mysteryland.png)
 
 Above: Toogethr link on the Mysteryland website
 
-![Toogethr link on the Extrema Outdoor website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Website%20Extrema.png?itok=bdModZMt)
+![Toogethr link on the Extrema Outdoor website](../static/img/Website%20Extrema.png)
 
 Above: Toogethr link on the Extrema Outdoor website
 
-![Toogethr link on the Bevrijdingsfestival Facebook page](http://www.toogethr.com/sites/default/files/styles/large/public/1/Facebook%20post%20BVF%20Gron.png?itok=75usrU4c)
+![Toogethr link on the Bevrijdingsfestival Facebook page](../static/img/Facebook%20post%20BVF%20Gron.png)
 
 Above: Toogethr link on the Bevrijdingsfestival Facebook page
 
 ## Banner
 Deep links can be strenghtened by placing a visual image. Add an image to the link to create a banner that redirects the website visitor to your own carpool group.
 
-![Toogethr banner on the Pinkpop website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Pinkpop%20website_1.png?itok=4kvPZFGa)
+![Toogethr banner on the Pinkpop website](../static/img/Pinkpop%20website_1.png)
 
 Above: Toogethr banner on the Pinkpop website
 
 ## Facebook page tab app
 The Facebook page tab app can be installed on any Facebook you administer. This app will immediately provide on the group functionality on your Facebook page.
 
-![Facebook page tab app for pinkpop on the toogether facebook page](http://www.toogethr.com/sites/default/files/styles/large/public/1/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop.png?itok=t7rQ3n_H)
+![Facebook page tab app for pinkpop on the toogether facebook page](../static/img/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop.png)
 
 Above: Facebook Page tab app for the Pinkpop group installed on the Toogethr Facebook Page
