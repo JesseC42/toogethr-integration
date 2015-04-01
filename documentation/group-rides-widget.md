@@ -5,7 +5,7 @@ Group rides widget
 
 Deze widget laat alle recent ritten in een specifieke groep zien. Ritten bevatten details over locatie, tijd en prijs.
 
-![Pinkpop example](../static/img/ride.png)
+![Pinkpop example](/static/img/ride.png)
 
 
 ## JavaScript code

@@ -5,7 +5,7 @@ Group Activities widget
 
 Deze widget toont alle recente activiteiten in een specifieke groep. Activiteiten zijn onder andere nieuwe volgers en gedeelde ritten.
 
-![group activities widget](../static/img/act.png)
+![group activities widget](/static/img/act.png)
 
 ## JavaScript code
 
