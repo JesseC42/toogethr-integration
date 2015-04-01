@@ -15,13 +15,13 @@ Je kent vast de YouTube filmpjes wel, die je overal op het web vindt. Of de Face
 
 Je kunt kiezen uit verschillende types widget: bijvoorbeeld om direct alle ritten op te sommen die met de groep zijn gedeeld. Elke widget kan verder op maat worden gemaakt om naadloos met je pagina te integreren.  Gedetailleerde informatie over de widgets kun je vinden in de [Documentatie](documentation/documentation-overview/).
 
-Wees er zeker van dat je de [Widget Terms of Use](http://www.toogethr.com/legal/) hebt gelezen en geaccepteerd voordat je een widget publiceert.
+Wees er zeker van dat je de [Widget Terms of Use](http://http://terms.toogethr.com/) hebt gelezen en geaccepteerd voordat je een widget publiceert.
 
-![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Widget%20Roda%20JC.png?itok=jd-bm107)
+![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](../static/img/Widget%20Roda%20JC.png)
 
 Hierboven: Toogethr widget op de Roda JC (Nederlandse eredivisie voetbalclub) website
 
-![Toogethr widget on the High Tech Campus Eindhoven website/intranet](http://www.toogethr.com/sites/default/files/styles/large/public/1/High%20Tech%20Campus%20Eindhoven%20Toogethr.png?itok=LZr_Mx-m)
+![Toogethr widget on the High Tech Campus Eindhoven website/intranet](../static/img/High%20Tech%20Campus%20Eindhoven%20Toogethr.png)
 
 Hierboven: Toogethr widget op de High Tech Campus Eindhoven website/intranet
 
@@ -30,32 +30,32 @@ Een deep link leidt de bezoekers van je site rechtstreeks naar een groep home pa
 
 Toogethr kan op aanvraag een short URL verzorgen. Bijvoorbeeld http://lift.je/naarpinkpop. Dit is met name handig in offline/gedrukte media.
 
-![Toogethr link on the Mysteryland website](http://www.toogethr.com/sites/default/files/styles/large/public/1/pinkpop.jpg?itok=zoYVfcy4)
+![Toogethr link on the Mysteryland website](../static/img/pinkpop.jpg)
 
 Hierboven: Deep link naar de Toogethr groep in het Rock Werchter programmaboekje
 
-![Toogethr link on the Mysteryland website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Mysteryland.png?itok=n8wEjwoD)
+![Toogethr link on the Mysteryland website](../static/img/Mysteryland.png)
 
 Hierboven: Toogethr link op de Mysteryland website
 
-![Toogethr link on the Extrema Outdoor website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Website%20Extrema.png?itok=bdModZMt)
+![Toogethr link on the Extrema Outdoor website](../static/img/Website%20Extrema.png)
 
 Hierboven: Toogethr link op de Extrema Outdoor website
 
-![Toogethr link on the Bevrijdingsfestival Facebook page](http://www.toogethr.com/sites/default/files/styles/large/public/1/Facebook%20post%20BVF%20Gron.png?itok=75usrU4c)
+![Toogethr link on the Bevrijdingsfestival Facebook page](../static/img/Facebook%20post%20BVF%20Gron.png)
 
 Hierboven: Toogethr link op de Bevrijdingsfestival Facebook pagina
 
 ## Banner
 Deep links kunnen worden versterkt door een visuele afbeelding te plaatsen. Voeg een afbeelding toe aan de link om een banner te creëren die de website bezoeker doorverwijst naar je eigen carpool groep.
 
-![Toogethr banner on the Pinkpop website](http://www.toogethr.com/sites/default/files/styles/large/public/1/Pinkpop%20website_1.png?itok=4kvPZFGa)
+![Toogethr banner on the Pinkpop website](../static/img/Pinkpop%20website_1.png)
 
 Hierboven: Toogethr banner op de Pinkpop website
 
 ## Facebook page tab app
 De Facebook page tab app kan worden geïnstalleerd op elke Facebook pagina die jij beheert. Deze app maakt de groep functionaliteit onmiddellijk beschikbaar op je Facebook pagina.
 
-![Facebook page tab app for pinkpop on the toogether facebook page](http://www.toogethr.com/sites/default/files/styles/large/public/1/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop.png?itok=t7rQ3n_H)
+![Facebook page tab app for pinkpop on the toogether facebook page](../static/img/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop.png)
 
 Hierboven: Facebook Page tab app voor de Pinkpop groep geïnstalleerd op de  Toogethr Facebook Page

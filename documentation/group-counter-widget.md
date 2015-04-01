@@ -5,7 +5,7 @@ Group counter widget
 
 Deze widget laat een teller zien van de beschikbare ritten binnen een specifieke groep.
 
-![Group counter widget](http://www.toogethr.com/sites/default/files/styles/large/public/1/counter.png?itok=SxYEgFCt)
+![Group counter widget](../static/img/counter.png)
 
 ## JavaScript code
 

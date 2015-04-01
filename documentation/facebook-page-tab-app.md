@@ -3,7 +3,7 @@ Facebook Page tab app
 
 Een groep kan aan je Facebook pagina worden toegevoegd als een tab. Dit betekent dat gebruikers in je community je Toogethr Groep eenvoudig kunnen ontdekkken en alle gedeelde ritten kunnen zien. 
 
-![facebook page tab app](http://www.toogethr.com/sites/default/files/styles/large/public/1/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop_1.png?itok=V6metDOL)
+![facebook page tab app](../static/img/Toogethr%20Facebook%20Page%20tab%20app%20for%20Pinkpop_1.png)
 
 ## Vereisten
 

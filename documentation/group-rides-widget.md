@@ -5,8 +5,7 @@ Group rides widget
 
 Deze widget laat alle recent ritten in een specifieke groep zien. Ritten bevatten details over locatie, tijd en prijs.
 
-![Pinkpop example]
-(http://www.toogethr.com/sites/default/files/styles/large/public/1/ride.png?itok=FNhBXU9C)
+![Pinkpop example](../static/img/ride.png)
 
 
 ## JavaScript code

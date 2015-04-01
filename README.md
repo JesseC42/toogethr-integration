@@ -4,7 +4,7 @@ Je kent waarschijnlijk de veelgebruikte Toogethr app voor carpoolen en ritten de
 
 Jij bent de ontbrekende schakel om hen te helpen geld te besparen op brandstof of meer plezier te beleven. Daarnaast is het een gemakkelijke stap richting het duurzamer en bereikbaarder maken van je organisatie en locatie(s).
 
-![integrate](http://www.toogethr.com/sites/default/files/1/header-developer-3.jpg)
+![integrate](static/img/header-developer-3.jpg)
 
 # Integratie makkelijk gemaakt
 
