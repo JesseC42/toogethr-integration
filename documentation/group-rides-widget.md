@@ -1,55 +1,65 @@
 Group rides widget
 ==================
 
-## Explanation
+## Toelichting
 
-This widget shows all recent rides in a specific group. Rides includes details on location, time, and price.
+Deze widget laat alle recent ritten in een specifieke groep zien. Ritten bevatten details over locatie, tijd en prijs.
 
-![Pinkpop example](../static/img/ride.png)
+![Pinkpop example]( /static/img/ride.png)
 
 
 ## JavaScript code
 
-Before you use a widget on your page, put this JavaScript code on your site. It does not matter where in the HTML `<body>` you insert it. You need it only once, irrespectable how many widgets you use.
+Voeg voordat je een widget gebruikt op je pagina, deze JavaScript code toe aan je site. Het maakt niet uit waar in de HTML `<body>` je het invoegt. Je hebt het maar een keer nodig, ongeacht hoeveel widgets je gebruikt.
 
-```
+```html
 <script>"use strict";(function () {
-var t = document.createElement('script');t.async = true;
-t.src = 'https://m.toogethr.com/widget/v2/api.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(t, s);})();</script>
+	var t = document.createElement('script');t.async = true;
+	t.src = 'https://m.toogethr.com/widget/v2/api.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);})();
+	</script>
+<<<<<<< Updated upstream
 ```
-## HTML code
-To show the Group rides widget you must put this HTML code in your webpage. The HTML element has data attributes to configure the size and behaviour. The attributes are easy to understand but are further explained below.
 
-```
+## HTML code
+Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. Het HTML element heeft data attributen om de grootte en het gedrag in te stellen. Deze attributen zijn gemakkelijk te begrijpen, maar worden hieronder verder toegelicht.
+
+```html
+=======
+	```
+	
+	## HTML code
+	Om de Group rides widget te tonen moet je deze HTML code in je webpage opnemen. Het HTML element heeft data attributen om de grootte en het gedrag in te stellen. Deze attributen zijn gemakkelijk te begrijpen, maar worden hieronder verder toegelicht.
+>>>>>>> Stashed changes
+
 <div class="too-GroupRidesList"
-     data-groupkey="key-name"
-     data-width="400"
-     data-height="500"
-     data-itemcount="20"
-     data-header="true">
+	data-groupkey="key-name"
+	data-width="400"
+	data-height="500"
+	data-itemcount="20"
+	data-header="true">
 </div>
 ```
 
-## Attributes
+## Attributen
 
 `data-groupkey="key-name"`
 
-Contains the key name of the group. For instance "pinkpop". You can find the key-name on the settings page of each group or in the url from the group page on https://m.toogethr.com
+Bevat de key name van de groep. Bijvoorbeeld "pinkpop". Je kunt de key-name vinden op de settings pagina van iedere groep of in de URL van de groep pagina op https://m.toogethr.com .
 
 `data-width="320"`
 
-Defines the width of the widget in pixels in your webpage. There is a minimum width of 320px.
+Definieert de breedte van de widget in pixels op je webpagina. Er geldt een minimum breedte van 320px.
 
 `data-height="400"`
 
-Defines the height of the widget in pixels in your webpage.
+Definieert de hoogte van de widget in pixels op je webpagina.
 
 `data-itemcount="20"`
 
-Defines the maximum number of rides that are shown in the list. Optional attribute. When more items are available than the heigth of the widget can accomodate, the list will be scrollable.
+Definieert het maximum aantal ritten dat in de lijst wordt getoond. Optionele attribuut. Wanneer er meer items beschikbaar zijn dan de hoogte van de widget ondersteunt, zal deze lijst scrollbaar zijn.
 
 `data-header="true"`
 
-Defines if the header with the name of the group is shown. Default is true.
+Definieert of de header met de naam van de groep wordt getoond. De default waarde is true.
