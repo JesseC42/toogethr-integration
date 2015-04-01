@@ -15,7 +15,7 @@ You are probably familiar with YouTube videos that are all over the web. Or the 
 
 There are several widget types you can choose from: for instance to directly lists all rides shared with the group. Each widget can be further customized to seamlessly integrate with your page. Detailed information about the widgets can be found in the [Documentation](documentation/documentation-overview/).
 
-Make sure you have read and agreed with the [Widget Terms of Use](http://www.toogethr.com/legal/) before you publish a widget. 
+Make sure you have read and agreed with the [Widget Terms of Use](http://terms.toogethr.com/) before you publish a widget. 
 
 ![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](../static/img/Widget%20Roda%20JC.png)
 

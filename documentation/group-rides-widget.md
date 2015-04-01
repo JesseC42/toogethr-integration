@@ -5,8 +5,7 @@ Group rides widget
 
 This widget shows all recent rides in a specific group. Rides includes details on location, time, and price.
 
-![Pinkpop example]
-(http://www.toogethr.com/sites/default/files/styles/large/public/1/ride.png?itok=FNhBXU9C)
+![Pinkpop example](../static/img/ride.png)
 
 
 ## JavaScript code
