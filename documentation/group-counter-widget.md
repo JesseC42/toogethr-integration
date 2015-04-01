@@ -5,7 +5,7 @@ Group counter widget
 
 This widget shows a counter of available rides within a specific group.
 
-![Group counter widget]( /static/img/counter.png)
+![Group counter widget](/static/img/counter.png)
 
 ## JavaScript code
 

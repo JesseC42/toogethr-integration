@@ -5,7 +5,7 @@ Group Activities widget
 
 This widget shows all recent activities in a specific group. Activities includes new followers and rides shared.
 
-![group activitieis widget]( /static/img/act.png)
+![group activitieis widget](/static/img/act.png)
 
 ## JavaScript code
 
