@@ -17,7 +17,7 @@ There are several widget types you can choose from: for instance to directly lis
 
 Make sure you have read and agreed with the [Widget Terms of Use](http://terms.toogethr.com/) before you publish a widget. 
 
-![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](../static/img/Widget%20Roda%20JC.png)
+![Toogethr widget on the Roda JC (Dutch premier league soccer club) website](/static/img/Widget%20Roda%20JC.png)
 
 Above: Toogethr widget on the Roda JC (Dutch premier league soccer club) website
 
