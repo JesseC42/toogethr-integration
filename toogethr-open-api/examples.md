@@ -23,7 +23,7 @@ Geeft een lijst terug met alle aangeboden en aangevraagde ritten (max 100) die v
 https://m.toogethr.com/query/local?geoLocationAddress=Voorstraat 20&geoLocationLatLng=52.013397,4.356209
 ```
 
-Geeft een lijst terug (100-200) van beschikbare matches met een zoekopdracht binnen een straal van 5km. 
+Geeft een lijst terug van beschikbare matches met een zoekopdracht (100-200) binnen een straal van 5km. 
 
 ```
 https://m.toogethr.com/query/recent
