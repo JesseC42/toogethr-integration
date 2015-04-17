@@ -5,8 +5,9 @@ Zodra allles ‘up & running’ is hebben we je hulp nodig om bewustwording onde
 Je gebruikt waarschijnlijk diverse online en offline kanalen om contact te houden met je community.
 
 Hier een paar ideëen:
-* Website of Intranet. Gebruik een widget, banner of link.
-* Email newsletter naar klanten, business partners of  medewerkers. Gebruik een banner of link.
-* Facebook page. Gebruik een link or Facebook page tab app.
-* Social media kanalen (zoals Twitter, Google+, LinkedIn). Gebruik een link.
-* Gedrukt materiaal. Gebruik een (verkorte) link.
+
+* [Website of Intranet](#website-of-intranet). Gebruik een widget, banner of link.
+* [Email newsletter](#Email-newsletter) naar klanten, business partners of  medewerkers. Gebruik een banner of link.
+* [Facebook page](#facebook-page)
+* [Social media kanalen](#social-media-kanalen)(zoals Twitter, Google+, LinkedIn). Gebruik een link.
+* [Gedrukt materiaal](#gedrukt-materiaal). Gebruik een (verkorte) link.
