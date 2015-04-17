@@ -1,7 +1,7 @@
 
-## Search
+## Zoeken
 
-At the moment the search query is accessible for non registered API users, standard CRUD (Create, Retreive, Update or Delete) requests on resources are not yet offered.
+Op dit moment is alleen een zoek query beschikbaar voor niet-geregistgreerde gebruikers; standaard CRUD (Create, Retreive, Update or Delete) requests op aangeboden en gevraagde ritten kunnen we nog niet bieden.
 
 ### Parameters
 
@@ -11,28 +11,28 @@ At the moment the search query is accessible for non registered API users, stand
 * `toLatLngString` comma seperated latitute and longitued coordinates, e.g. "52.061806,4.483128"
 * `group` a string to identity the group, e.g. "Huishoudbeurs"
 
-### Examples
+### Voorbeelden
 
 ```
 https://m.toogethr.com/query/search?frmAddress=Voorstraat 20&frmLatLng=52.013397,4.356209&toAddress=Zoetermeer&toLatLngString=52.061806,4.483128&group=huishoudbeurs
 ```
 
-Returns a list of all offers and requests (max 100) fitting the search parameters
+Geeft een lijst terug met alle aangeboden en aangevraagde ritten (max 100) die voldoen aan de zoek parameters.
 
 ```
 https://m.toogethr.com/query/local?geoLocationAddress=Voorstraat 20&geoLocationLatLng=52.013397,4.356209
 ```
 
-Returns a list (100-200) of items in range of 5km
+Geeft een lijst terug (100-200) van beschikbare matches met een zoekopdracht binnen een straal van 5km. 
 
 ```
 https://m.toogethr.com/query/recent
 ```
 
-Returns a list of all recent offers and requests
+Geeft een lijst terug met alle recent aangeboden en aangevraagde ritten.
 
 
-## Example JSON responses
+## Voorbeeld JSON responses
 
 ```JSON
 {
